@@ -1,0 +1,1 @@
+I have used Weather data of different states of india and tested my model. The Model Gives nearly 74% Accuracy Using XG Boost and Ensemble Techniques. The results are here in the PPT uploaded. The code is private if you want the code let me know at asif@hitam.org.
